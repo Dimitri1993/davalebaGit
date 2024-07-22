@@ -4,11 +4,11 @@ console.log(x+y)*/
 
 
 /*let student= {
-    firstname:"Dimitri",
+    firstname:"Dimitr",
     lastname:"Tsotsonava",
     age: 30,
     email:"dima3tsotsonava@gmail.com",
-    marks:"123"
+    marks:"13"
 }
 console.log(student.firstname)*/
 
@@ -27,7 +27,7 @@ console.log("Rise and shine",studentName)*/
 
 
 
-/*let Bonus, salery=50
+/*let Bonus, salery=40
     if (salery>=2000){
         Bonus=0
     }
